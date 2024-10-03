@@ -46,4 +46,4 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 
 ### Como poner una imagen
 
-![J23](C:\Users\irons\Documents\repositorios\ASIX1-AprendizajeMarkdown\img\JCRAYAS.jpg)
+![JC Reyes](C:\Users\irons\Documents\repositorios\ASIX1-AprendizajeMarkdown\img\JCRAYAS.jpg)
