@@ -40,6 +40,10 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 </html>
 ```
 
-[textoclicable](URL "Titulo Opcional")
 
 [Pagina web J23](https://www.fje.edu/ca/jesuites-bellvitge "Jesuites Bellvitge")
+
+
+### Como poner una imagen
+
+![J23](C:\Users\irons\Documents\repositorios\ASIX1-AprendizajeMarkdown\img\JCRAYAS.jpg)
