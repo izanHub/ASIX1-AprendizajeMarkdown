@@ -7,4 +7,19 @@
 
 
 
-Primera clase de markdown
+Primera clase de *markdown* de __0373__
+
+Las etiquetas en **_markdown_** y HTML pueden anidarse.
+
+1. Primer punto de la lista.
+   1. Primer elemento de la sublista
+   2. Segundo elemento de la sublista
+2. Segundo punto de la lista.
+   * Primer elemento de la sublista 2
+   * Segundo elemento de la sublista 2
+
+3. Tercer punto de la lista
+
+* Primer punto de lista desordenada
+- Segundo punto de lista desordenada
++ Tercer punto de lista desordenada
