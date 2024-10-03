@@ -47,3 +47,12 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 ### Como poner una imagen
 
 ![JC Reyes](https://github.com/izanHub/ASIX1-AprendizajeMarkdown/blob/main/img/JCRAYAS.jpg)
+
+
+### Como hacer una tabla
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|---------|:--------------:|---------------:|
+|SMX2 |Curso 2324 |25|
+|ASIX1 |Curso 2425 |33|
+|DAW1 |Curso 2425 |32|
